@@ -1,0 +1,2 @@
+# CleanQueries
+ORM for MySQL
